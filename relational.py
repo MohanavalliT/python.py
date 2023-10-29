@@ -1,0 +1,8 @@
+a=int(input("Enter the number1:"))
+b=int(input("Enter the number2:"))
+print("the a==b",a==b)
+print("the a>b",a>b)
+print("the a<b",a<b)
+print("the a<=b",a<=b)
+print("the a>=b",a>=b)
+print("the a!=b",a!=b)
